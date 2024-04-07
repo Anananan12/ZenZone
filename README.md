@@ -1,7 +1,22 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+The dynamic urban landscape of New York City (NYC),
+ characterised by its unparalleled vibrancy and relentless
+ pace, presents both opportunities and challenges for its resi
+dents. 
+![主页面](https://github.com/Anananan12/ZenZone/assets/114954644/47c46011-5982-46fb-a275-d4ec19d41d9c)
 
+This is where our application, ZenZone, steps in. While
+ being renowned for its lively streets and iconic yellow cabs,
+ NYC has an abundance of hidden parks, peaceful avenues,
+ and undiscovered areas of quietness. Using data from mul
+tiple sources, ZenZone guides users to these quiet havens in
+ NYC. With ZenZone, users can:
+ • Locate quiet areas of NYC;
+ • Plan peaceful walking routes;
+ • Find calm locales, such as cafes, parks, and museums.
 ## Available Scripts
 
 In the project directory, you can run:
